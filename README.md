@@ -11,3 +11,17 @@ This App includes:
 * CardView, RecyclerView
 * Offline Functionality 
 
+MainActivity
+![](images/24852.jpg)
+
+MovieActivity
+![](images/24851.jpg)
+
+FavoritesActivity
+![](images/24850.jpg)
+
+AboutActibity
+![](images/24853.jpg)
+
+
+
